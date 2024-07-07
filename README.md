@@ -8,4 +8,4 @@ Serve the site using:
 
 To publish the site simply use:
 
-    hugo 
+    hugo

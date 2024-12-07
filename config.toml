@@ -1,6 +1,8 @@
 # The URL the site will be built for
 base_url = "https://example.com"
 
+theme = "terminimal"
+
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
 
@@ -14,3 +16,20 @@ highlight_code = true
 
 [extra]
 # Put all your custom variables here
+
+logo_text = "filipmilo"
+
+copyright_html = "© 2024 by Filip Milosevic"
+
+accent_color = "green"
+
+background_color = "green"
+
+menu_items = [
+    {name = "about me", url = "$BASE_URL/about"},
+    {name = "projects", url = "$BASE_URL/projects"},
+    {name = "blog", url = "$BASE_URL/blog"},
+
+    # set newtab to true to make the link open in new tab
+    {name = "github", url = "https://github.com/filipmilo", newtab = true},
+]

@@ -1,11 +1,3 @@
-# Portfolio made using Hugo
+# filipmilo.dev
 
-Serve the site using:
-
-    hugo serve -D 
-
----
-
-To publish the site simply use:
-
-    hugo
+Built using Zola.

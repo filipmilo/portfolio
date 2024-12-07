@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "https://filipmilo.github.io/portfolio/"
+base_url = "https://filipmilo.dev"
 
 theme = "terminimal"
 
